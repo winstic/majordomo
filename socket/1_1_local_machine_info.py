@@ -1,8 +1,11 @@
 #!usr/bin/env python
+# -*- coding: utf-8 -*-
 #Python Networking Programming
 #This program is optimized for Python 2.7. 
 #It may run on any other Python with/without modifications.
 ##Date:2017-02-16 by wengzc
+
+## 中文注释
 
 import socket
 
