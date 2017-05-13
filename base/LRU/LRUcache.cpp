@@ -130,7 +130,7 @@ void printN(cacheNode<K, T>* node) {
 		cout << "cannot get node" << endl;
 }
 
-/*int main() {
+int main() {
 	const int tsize = 10;
 	LRU<int, string> lrucache(tsize);
 	lrucache.putNode(1, "one");
@@ -153,4 +153,4 @@ void printN(cacheNode<K, T>* node) {
 
 	system("pause");
 	return 0;
-}*/
+}
